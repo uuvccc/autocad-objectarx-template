@@ -1,0 +1,47 @@
+# Build directories
+build/
+bin/
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+INSTALL.vcxproj*
+ZERO_CHECK.vcxproj*
+ALL_BUILD.vcxproj*
+
+# Compiled files
+*.obj
+*.o
+*.lib
+*.dll
+*.arx
+*.pdb
+*.ilk
+*.exp
+*.tlog
+*.lastbuildstate
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
